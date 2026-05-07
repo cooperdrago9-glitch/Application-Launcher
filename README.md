@@ -18,7 +18,7 @@ It provides fast app launching, system search, and a minimal glass UI.
 
 ---
 
-## ??? Screenshots
+## Screenshots
 
 (Add screenshots here later)
 
