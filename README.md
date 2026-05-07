@@ -6,15 +6,15 @@ It provides fast app launching, system search, and a minimal glass UI.
 
 ---
 
-## ? Features
+##  Features
 
-- ? Global hotkey (Ctrl + Space)
-- ?? Instant app search
-- ?? Pinned apps (Terminal, VS Code, Explorer, Firefox, VirtualBox)
-- ?? Web search fallback
-- ?? Keyboard navigation (? ? Enter Esc)
-- ?? Clean glass UI (Spotlight-inspired)
-- ?? Start Menu app scanning
+-  Global hotkey (Ctrl + Space)
+-  Instant app search
+-  Pinned apps (Terminal, VS Code, Explorer, Firefox, VirtualBox)
+-  Web search fallback
+-  Keyboard navigation (? ? Enter Esc)
+-  Clean glass UI (Spotlight-inspired)
+-  Start Menu app scanning
 
 ---
 
@@ -24,7 +24,7 @@ It provides fast app launching, system search, and a minimal glass UI.
 
 ---
 
-## ?? Download (No build required)
+##  Download (No build required)
 
 Go to **Releases** and download the latest version:
 
@@ -34,7 +34,7 @@ Download the `.zip`, extract it, and run:
 Spotlight.exe
 ---
 
-## ?? Build from source
+##  Build from source
 
 ### Requirements
 - .NET 8 SDK or later
