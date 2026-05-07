@@ -42,12 +42,16 @@ Spotlight.exe
 
 ---
 
-### ?? Build For ARM
+### Build
+
+### Build For ARM
 
 ```bash
 dotnet publish -c Release -r win-arm64 --self-contained true /p:PublishSingleFile=true
 
-###  Build For x64
+---
+
+### Build For x64
 
 ```bash
 dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true
